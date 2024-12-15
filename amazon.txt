@@ -2,3 +2,4 @@ hello to all
 today we are practicing the git and git hub 
 git command to install in amazon linux 
 we use yum for installation sudo yum install git (any other tool)
+git version command is gt -v
